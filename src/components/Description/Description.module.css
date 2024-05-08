@@ -1,7 +1,3 @@
-h1 {
-    margin-bottom: 24px;
-}
-
-p {
+.header, .note {
     margin-bottom: 24px;
 }
