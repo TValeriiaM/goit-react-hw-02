@@ -1,0 +1,20 @@
+.optionlist {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    margin-bottom: 24px;
+}
+
+.optionButton {
+    background-color: #e4e5e7;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        width: auto;
+        height: 40px;
+        border: solid 1px #111;
+        border-radius: 4px;
+        
+}
